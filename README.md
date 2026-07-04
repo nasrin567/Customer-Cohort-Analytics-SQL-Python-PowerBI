@@ -210,8 +210,8 @@ Customer-Cohort-Analytics-SQL-Python-PowerBI
 
 ---
 
-## Author
+## About Me
 
-**Nasrin567**
+I'm an aspiring **Data Analyst** with a strong interest in data-driven decision-making and business intelligence. My focus is on building end-to-end analytics projects involving data preprocessing, SQL-based analysis, and interactive dashboard development.
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+**Skills:** Python • SQL Server • Power BI • Pandas • NumPy • Data Visualization • Exploratory Data Analysis (EDA)
