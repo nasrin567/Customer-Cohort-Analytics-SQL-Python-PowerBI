@@ -158,28 +158,27 @@ Developed an interactive dashboard to visualize business insights.
 
 ## Repository Structure
 
-```
-Customer-Shopping-Behavior-Analytics
+```text
+Customer-Cohort-Analytics-SQL-Python-PowerBI
 │
 ├── Dataset
-│   └── shopping_trends.csv
+│   └── customer_shopping_behavior.csv
 │
-├── Python
-│   └── Customer_Shopping_Analysis.ipynb
-│
-├── SQL
-│   └── Business_Queries.sql
+├── Documentation
+│   ├── Business Problem.pdf
+│   └── Project_Presentation.pptx
 │
 ├── Power BI
 │   ├── Customer_Behavior_Dashboard.pbix
 │   └── Dashboard.png
 │
-├── Documentation
-│   ├── Business_Problem.pdf
-│   └── Project_Presentation.pdf
+├── Python
+│   └── Data Cleaning & EDA.ipynb
 │
-├── README.md
-└── LICENSE
+├── SQL
+│   └── Business Queries.sql
+│
+└── README.md
 ```
 
 ---
